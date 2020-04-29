@@ -2,7 +2,7 @@
 
 The gourmet restaurant 'Seasons' on the Cowbridge Road campus of Bridgend College needs a new menu. The chef knows about programming and wants a computer system to manage the menu. In this assignment, we'll implement the heart of the system, the Menu class.
 
-The exercise template comes with a `exercise.py` filess that you can use to test the menu. For the implementation of the menu, you'll have the following boilerplate code:
+The exercise template comes with a `exercise.py` file that you can use to test the menu. For the implementation of the menu, you'll have the following boilerplate code:
 
 ```python
 class Menu:
